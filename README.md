@@ -14,14 +14,14 @@ The initial model looks something like this:
 
 dimensions of the pcb(and the acrylic plates) are 81,5 x 45mm.
 
-debug pins on top of the board, next to a screwhole 
+debug pins on top of the board, next to a screwhole:
 
 <img width="1226" height="505" alt="image" src="https://github.com/user-attachments/assets/e018497b-506e-4157-8bab-dce5ed0818e2" />
 
 ## Casing method
 I took inspiration from the sayo device with the casing method with the pcb being sandwitched between the plates. I decided on a system where 4 holes will be occupied by screws attached from both sides to a female to female spacer, and the other 4 by dowel pins to prevent the plates from wobbling sideways.
 
-<img width="951" height="458" alt="Zrzut ekranu 2026-09-09 220117" src="https://github.com/user-attachments/assets/2d4b11d7-16f5-4998-89f7-d71027818288" />
+<img width="1242" height="675" alt="image" src="https://github.com/user-attachments/assets/f903d5b3-6482-4edb-a8f5-572718f0a266" />
 
 ## Bill of materials
 
