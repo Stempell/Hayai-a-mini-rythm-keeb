@@ -1,4 +1,5 @@
-# Hayai-a mini rythm keeb
+<img width="1512" height="375" alt="Banner" src="https://github.com/user-attachments/assets/ae262bbc-e0ca-400b-b9d7-6ae2d6b1f0b7" />
+
 Hayai is a Mini keyboard for shortcuts and playing rythm games. It features 4 magnetic hall effect switches (each with an rgb underglow LED) a rotary encoder and an 0.96" IPS display.
 The display is connected by a FPC cable to a ZIF socket. custom footprints are in the kicad files.
 the whole thing runs on a rp2040.
