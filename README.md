@@ -5,7 +5,7 @@ The display is connected by a FPC cable to a ZIF socket. custom footprints are i
 the whole thing runs on a rp2040.
 The initial model looks something like this:
 
-<img width="1062" height="706" alt="image" src="https://github.com/user-attachments/assets/438b99a7-3fd9-4cde-94dc-068e13f1ee69" />
+<img width="1012" height="670" alt="image" src="https://github.com/user-attachments/assets/b498d452-2fd6-4e30-a266-e99737d58811" />
 
 ## Schematic
 <img width="1090" height="762" alt="image" src="https://github.com/user-attachments/assets/60a5aaad-1169-473d-87b9-97c8ccac47d0" />
