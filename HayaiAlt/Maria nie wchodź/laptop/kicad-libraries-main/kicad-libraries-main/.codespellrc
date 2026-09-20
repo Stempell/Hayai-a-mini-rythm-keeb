@@ -1,4 +1,0 @@
-[codespell]
-skip = build,*.drawio,*.svg,*.pdf,footprints/Espressif.pretty,*.png,3dmodels/espressif.3dshapes
-ignore-words-list = laf,OT
-write-changes = true
