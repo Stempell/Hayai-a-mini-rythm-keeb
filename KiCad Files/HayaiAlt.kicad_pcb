@@ -7769,8 +7769,8 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 138.08 82.389833)
-		(end 166.03 95.889833)
+		(start 141.08 82.389833)
+		(end 169.03 95.889833)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -7780,8 +7780,8 @@
 		(uuid "f3a0e1d1-1c03-488f-8f57-b689b06b8d55")
 	)
 	(gr_line
-		(start 162.68 82.389833)
-		(end 162.68 95.89)
+		(start 165.68 82.389833)
+		(end 165.68 95.89)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -7962,8 +7962,8 @@
 		(uuid "4d534dd1-803f-4505-9de0-216a1ec639c6")
 	)
 	(gr_rect
-		(start 139.130063 83.055)
-		(end 162.130063 95.205)
+		(start 142.130063 83.055)
+		(end 165.130063 95.205)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -7973,8 +7973,8 @@
 		(uuid "762c875d-da03-4e1a-a20f-2754dd1212b8")
 	)
 	(gr_rect
-		(start 139.130063 83.13)
-		(end 162.130063 95.13)
+		(start 142.130063 83.13)
+		(end 165.130063 95.13)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -7984,8 +7984,8 @@
 		(uuid "67009516-f63c-403c-bc9e-ad17d7ff34c4")
 	)
 	(gr_rect
-		(start 139.78 83.73)
-		(end 161.48 94.53)
+		(start 142.78 83.73)
+		(end 164.48 94.53)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -8029,7 +8029,7 @@
 		)
 	)
 	(gr_text "IPS panel 0,96{dblquote}\n\n"
-		(at 137.72 98.02 0)
+		(at 140.72 98.02 0)
 		(layer "F.SilkS")
 		(uuid "39634153-a720-453c-bd34-ee9366d6a681")
 		(effects
@@ -8041,7 +8041,7 @@
 		)
 	)
 	(point
-		(at 152.055 89.139833)
+		(at 155.055 89.139833)
 		(size 1)
 		(layer "F.SilkS")
 		(uuid "5d2e9913-b1e6-4153-a090-d85c9397665e")
@@ -8059,7 +8059,7 @@
 		(uuid "a369a5ed-e951-48aa-9f23-9322695233ce")
 	)
 	(point
-		(at 149.02 89.12)
+		(at 152.02 89.12)
 		(size 1)
 		(layer "Eco2.User")
 		(uuid "b8f003a1-ce34-4c50-9208-d925fade687f")
@@ -8125,13 +8125,13 @@
 		(uuid "45c54e40-e47a-45af-b35e-0df60657ac3f")
 	)
 	(point
-		(at 139.13 89.7)
+		(at 142.13 89.7)
 		(size 1)
 		(layer "F.Fab")
 		(uuid "4de1d458-7a95-4498-b3ff-85708a02188a")
 	)
 	(point
-		(at 150.630063 89.13)
+		(at 153.630063 89.13)
 		(size 1)
 		(layer "F.Fab")
 		(uuid "f6525b58-e8a6-48b1-9ca9-c46794651b10")
