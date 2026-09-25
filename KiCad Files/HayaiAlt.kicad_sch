@@ -2779,16 +2779,12 @@
 		(uuid "1106d184-730b-4dc9-b24f-32c59555d7bc")
 	)
 	(no_connect
-		(at 195.58 95.25)
-		(uuid "1b618004-9324-49e4-b204-3d1ac2c8e942")
+		(at 177.8 99.06)
+		(uuid "187a3255-3c5a-4270-a0c2-d715fc74890e")
 	)
 	(no_connect
 		(at 175.26 99.06)
 		(uuid "2b630621-0267-41f0-8819-559cf40fb7ce")
-	)
-	(no_connect
-		(at 195.58 69.85)
-		(uuid "5380b820-c791-4eb2-8821-2d64a5e5631a")
 	)
 	(no_connect
 		(at 195.58 77.47)
@@ -2825,6 +2821,10 @@
 	(no_connect
 		(at 78.74 160.02)
 		(uuid "c7d66889-6523-4a9c-83c2-cb50f889bae5")
+	)
+	(no_connect
+		(at 195.58 95.25)
+		(uuid "fcba1bb2-379c-46c3-b0fe-6129326000c4")
 	)
 	(no_connect
 		(at 195.58 74.93)
@@ -3624,30 +3624,6 @@
 	)
 	(global_label "LED"
 		(shape input)
-		(at 177.8 99.06 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "46e09898-b4cf-43ab-b92d-f8d3752bddbc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.8 105.4923 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "LED"
-		(shape input)
 		(at 148.59 160.02 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4123,6 +4099,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "LED"
+		(shape input)
+		(at 195.58 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ea504a2a-c17e-49a1-bf01-e6a4e5598b04")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 202.0123 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
