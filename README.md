@@ -1,5 +1,7 @@
 <img width="2002" height="535" alt="Banner3" src="https://github.com/user-attachments/assets/f9d0fc65-6770-4a09-b0ad-f4a13ea1d2dd" />
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)]([https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb](https://github.com/Stempell/Hayai-a-mini-rythm-keeb/blob/main/KiCad%20Files/HayaiAlt.kicad_pcb))
+
 Hayai is a Mini keyboard for shortcuts and playing rythm games. It features 4 magnetic hall effect switches (each with an rgb underglow LED) a rotary encoder and an 0.96" IPS display.
 The display is connected by a FPC cable to a ZIF socket. custom footprints are in the kicad files.
 The whole thing runs on a rp2040.
