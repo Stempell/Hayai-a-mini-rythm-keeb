@@ -36,7 +36,7 @@ The pcb sits inbetween the two middle plates with cutouts for components and pin
 | 3 | GATERON Magnetic Jade Air HE Switches | 4 | $15.00 | [GATERON](https://www.gateron.com/products/gateron-magnetic-jade-air-he-switch-set?VariantsId=11190) |
 | 4 | Keycaps of choice | 4 | — | — |
 | 5 | 0.96" IPS TFT ST7735 display | 1 | $1.62 | [BuyDisplay](https://www.buydisplay.com/0-96-inch-mini-color-tft-lcd-display-module-80x160-ips-tft-st7735) |
-| 6 | EC11 20mm switch rotary encoder | 1 | ~$1.80 | — |
+| 6 | EC11 20mm switch rotary encoder with mounting plates | 1 | ~$1.80 | — |
 | 7 | Encoder cap of choice | 1 | — | — |
 | 8 | Waveshare RP2350-Zero Mini Development Board Female | 1 | $5.79 | [Waveshare](https://www.waveshare.com/rp2350-zero.htm) |
 | 9 | 1x9 pin header for microcontroller | 2 | $2.45 | [AliExpress](https://tinyurl.com/3yzm8hka) |
@@ -44,6 +44,8 @@ The pcb sits inbetween the two middle plates with cutouts for components and pin
 | 11 | Brass standoffs (2M, 13mm) | 4 | $3.28 | [AliExpress](https://pl.aliexpress.com/item/1005012002279754.html) |
 | 12 | Dowel pins (3M, 14mm) | 4 | $4.11 | [AliExpress](https://pl.aliexpress.com/item/4000473863693.html) |
 | 13 | M2 screws, can also add washers | 4 | — | — |
+
+Note that the pcb and plates were made around these specific parts. You can experiment and switch them out for different models but i don't guarantee it'll work
 
 ## BIll of materials for the pcba assembly
 
