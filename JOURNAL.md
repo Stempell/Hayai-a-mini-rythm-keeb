@@ -5,6 +5,7 @@ After some trial, error and deviously long time looking for the right ips panel 
 <img width="800" height="551" alt="obraz" src="https://github.com/user-attachments/assets/9e3cc80f-071d-4322-8e13-2f83586f2a87" />
 <img width="800" height="461" alt="obraz" src="https://github.com/user-attachments/assets/a07f8f54-e783-4edd-bffd-0cde0ce15ea0" />
 
+Time spend - 6.5h 
 
 
 
@@ -16,6 +17,8 @@ After some thought, i decided to upgrade the regular mechanical switches
 
 <img width="596" height="484" alt="obraz" src="https://github.com/user-attachments/assets/0876fce7-fbaf-4b8d-bff4-fd5846aa1817" />
 
+Time spend - 2.5h
+
 
 
 
@@ -25,6 +28,8 @@ so unfortunaly my pc crashed and i lost almost all work on the pcb, wchich was w
 
 <img width="800" height="468" alt="obraz" src="https://github.com/user-attachments/assets/5ccaa613-26fa-4e98-84a1-a550892c717f" />
 
+
+Time spend - 3.5h
 
 
 
@@ -38,6 +43,8 @@ And with that, the whole project, i think. I took inspiration for the casing met
 <img width="800" height="409" alt="obraz" src="https://github.com/user-attachments/assets/7d95fe7a-74e8-4b14-be69-d69483d44a22" />
 <img width="800" height="390" alt="obraz" src="https://github.com/user-attachments/assets/c33dc196-2cf7-45f4-ad93-a9d50bfc5554" />
 
+Time spend - 1h
+
 
 
 
@@ -48,6 +55,7 @@ i decided on a system where 4 holes will be occupied by screws attached from bot
 <img width="800" height="449" alt="obraz" src="https://github.com/user-attachments/assets/dce5c6ac-9037-438c-9925-0fc4314e394c" />
 <img width="800" height="489" alt="obraz" src="https://github.com/user-attachments/assets/ce5ac772-4d60-4254-a305-2264d7086d04" />
 
+Time spend - 1h
 
 
 
@@ -57,6 +65,8 @@ I looked over the pcb assembly costs and boy were they high. So high in fact, th
 
 <img width="800" height="459" alt="obraz" src="https://github.com/user-attachments/assets/19be02f2-b5a0-4a68-acbe-51b7221a31f6" />
 <img width="800" height="673" alt="obraz" src="https://github.com/user-attachments/assets/b6bdb6f4-711e-4a0a-89ca-09ebfdcba7e2" />
+
+4.5h
 
 
 
@@ -76,6 +86,9 @@ The worst thing about it was that it wasn't just the .step format that could not
 <img width="800" height="261" alt="obraz" src="https://github.com/user-attachments/assets/7734184d-1eae-4cf3-8484-d05e13e0a93e" />
 <img width="795" height="536" alt="obraz" src="https://github.com/user-attachments/assets/a87d9c07-1fa5-4953-9176-0e36b1cb6aaa" />
 <img width="800" height="501" alt="obraz" src="https://github.com/user-attachments/assets/e8aeec8f-80fa-4f80-ba82-6f6f8b6c1bb7" />
+
+Time spend - 5h
+
 
 
 
