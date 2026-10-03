@@ -40,7 +40,7 @@ The pcb sits inbetween the two middle plates with cutouts for components and pin
 | 7 | Encoder cap of choice | 1 | — | — |
 | 8 | Waveshare RP2350-Zero Mini Development Board Female | 1 | $5.79 | [Waveshare](https://www.waveshare.com/rp2350-zero.htm) |
 | 9 | 1x9 pin header for microcontroller | 2 | $2.45 | [AliExpress](https://tinyurl.com/3yzm8hka) |
-| 10 | DRV5056A4QDBZR (SOT-23-3) | 4 | $3.36 | [DigiKey](https://www.digikey.com/en/products/detail/texas-instruments/DRV5056A4QDBZR/9692623) |
+| 10 | DRV5056A4QDBZR (SOT-23-3) | 4 | $3.36 | [JLCPCB](https://jlcpcb.com/partdetail/TexasInstruments-DRV5056A4QDBZR/C2152902) |
 | 11 | Brass standoffs (2M, 13mm) | 4 | $3.28 | [AliExpress](https://pl.aliexpress.com/item/1005012002279754.html) |
 | 12 | Dowel pins (3M, 14mm) | 4 | $4.11 | [AliExpress](https://pl.aliexpress.com/item/4000473863693.html) |
 | 13 | M2 screws, can also add washers | 4 | — | — |
