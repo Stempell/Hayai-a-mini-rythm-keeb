@@ -6,21 +6,30 @@ After some trial, error and deviously long time looking for the right ips panel 
 <img width="800" height="461" alt="obraz" src="https://github.com/user-attachments/assets/a07f8f54-e783-4edd-bffd-0cde0ce15ea0" />
 
 
-## I fancy an upgrade, so lets start over 
+
+
+
+# I fancy an upgrade, so lets start over 
 After some thought, i decided to upgrade the regular mechanical switches
  to hall effect magnetic ones. That of course requires them to be hooked
  up to analog pins. But I already wired everything and stuff and the adc pins are on the opposite side of the board so it would really be a mess dragging them all the way so i decided to start over and redo the pcb. I also made a custom footprint for the switches i wanna use (the gateron magnetic jade Air HE's).
 
- <img width="596" height="484" alt="obraz" src="https://github.com/user-attachments/assets/0876fce7-fbaf-4b8d-bff4-fd5846aa1817" />
+<img width="596" height="484" alt="obraz" src="https://github.com/user-attachments/assets/0876fce7-fbaf-4b8d-bff4-fd5846aa1817" />
 
 
- # PC crashed, lost my work :C
+
+
+
+# PC crashed, lost my work :C
 so unfortunaly my pc crashed and i lost almost all work on the pcb, wchich was weird bescause i could have sworn i've been saving my progress regurarly. But we don't cry over spilled milk do we? I started over and made the pcb again it was easier as i just needed to redo it from memory. still have some silkscreen art to do tho.
 
 <img width="800" height="468" alt="obraz" src="https://github.com/user-attachments/assets/5ccaa613-26fa-4e98-84a1-a550892c717f" />
 
 
-## Case plates finished!
+
+
+
+# Case plates finished!
 And with that, the whole project, i think. I took inspiration for the casing method from the sayo device with the pcb "sandwitched" between these plates. mine will be made from acrylic and im still thinking about priting some designs on top of the top plate and maybe making the bottom plate transparent but we'll think about that later. Only thing left is some double checks, finishing up the repository and i think we're ready to submit! 
 (btw i never told you but Hayai means swift in japanese :>)
 
@@ -30,6 +39,9 @@ And with that, the whole project, i think. I took inspiration for the casing met
 <img width="800" height="390" alt="obraz" src="https://github.com/user-attachments/assets/c33dc196-2cf7-45f4-ad93-a9d50bfc5554" />
 
 
+
+
+
 # Added mounting holes
 i decided on a system where 4 holes will be occupied by screws attached from both sides to a female to female spacer, and the other 4 by dowel pins to prevent the plates from wobbling sideways. i'll adjust the hole sizes later when im ordering exact pins and screws
 
@@ -37,14 +49,20 @@ i decided on a system where 4 holes will be occupied by screws attached from bot
 <img width="800" height="489" alt="obraz" src="https://github.com/user-attachments/assets/ce5ac772-4d60-4254-a305-2264d7086d04" />
 
 
-## PCBA IS TOO EXPENSIVE
+
+
+
+# PCBA IS TOO EXPENSIVE
 I looked over the pcb assembly costs and boy were they high. So high in fact, that it exceeds the max funding for the tier hayai falls into. to reduce assembly costs, i decided to use a microcontroller module instead of the chip. I used a rp2350 zero from waveshare and rerouted the whole board (and also expanded the borders a bit). Im a bit frustrated about the whole thing bescause the project was like 99% ready to submit and now i gotta do so many things all over again but it is what it is.
 
 <img width="800" height="459" alt="obraz" src="https://github.com/user-attachments/assets/19be02f2-b5a0-4a68-acbe-51b7221a31f6" />
 <img width="800" height="673" alt="obraz" src="https://github.com/user-attachments/assets/b6bdb6f4-711e-4a0a-89ca-09ebfdcba7e2" />
 
 
-## moving the zif connector and OnShape issues
+
+
+
+# moving the zif connector and OnShape issues
 ### we're not sqishing the cable anymore 
 Soooo i realised, that when assembling the whole thing, the fpc connector would only have like 1,5mm of space under the panel and that is WAAAY to little for it to not break so i had to lay it flat on the pcb and move the zif connector behind the mcu pins. 
  ### time for some bad news
