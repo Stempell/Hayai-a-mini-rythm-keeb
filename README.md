@@ -37,32 +37,34 @@ Have fun! C:
 
 ## Bill of Materials
 
-| # | Item | Quantity | Price (USD) | Source |
+| # | Item | Quantity | Price | Link |
 |---:|---|---:|---:|---|
 | 1 | Custom PCB | 1 | ~$22.87 | [JLCPCB](https://jlcpcb.com/) |
 | 2 | Acrylic plates | 4 | ~$18.04 | [Elecrow](https://www.elecrow.com/) |
-| 3 | GATERON Magnetic Jade Air HE Switches | 4 | $15.00 | [GATERON](https://www.gateron.com/products/gateron-magnetic-jade-air-he-switch-set?VariantsId=11190) |
-| 4 | Keycaps of choice | 4 | — | — |
+| 3 | GATERON Magnetic Jade Air HE Switches | 4 | $15.00 | [GATERON](https://pl.aliexpress.com/item/1005005513800132.html?mp=1&pdp_npi=6%40dis%21PLN%21PLN+10.38%21PLN+5.19%21%21PLN+5.19%21%21%21%4021613be817913114503443671e1002%2112000033370341350%21ct%21PL%216850984236%21%211%210%21&gatewayAdapt=glo2pol) |
+| 4 | Keycaps of choice | 4 | $1.34 | [AliExpress](https://pl.aliexpress.com/item/4000473863693.html) |
 | 5 | 0.96" IPS TFT ST7735 display | 1 | $1.62 | [BuyDisplay](https://www.buydisplay.com/0-96-inch-mini-color-tft-lcd-display-module-80x160-ips-tft-st7735) |
-| 6 | EC11 20mm switch rotary encoder with mounting plates | 1 | ~$1.80 | — |
-| 7 | Encoder cap of choice | 1 | — | — |
+| 6 | EC11 20mm switch rotary encoder with mounting plates (the cap i chose fits the one with a plum handle) | 1 | $1.38 | [AliExpress](https://pl.aliexpress.com/item/1005007644083514.html) |
+| 7 | Encoder cap of choice | 1 | $3.24 | [AliExpress](https://pl.aliexpress.com/item/1005008583446552.html) |
 | 8 | Waveshare RP2350-Zero Mini Development Board Female | 1 | $5.79 | [Waveshare](https://www.waveshare.com/rp2350-zero.htm) |
 | 9 | 1x9 pin header for microcontroller | 2 | $2.45 | [AliExpress](https://tinyurl.com/3yzm8hka) |
 | 10 | DRV5056A4QDBZR (SOT-23-3) | 4 | $3.36 | [JLCPCB](https://jlcpcb.com/partdetail/TexasInstruments-DRV5056A4QDBZR/C2152902) |
 | 11 | Brass standoffs (M2, 13mm) | 4 | $3.28 | [AliExpress](https://pl.aliexpress.com/item/1005012002279754.html) |
 | 12 | Dowel pins (M3, 14mm) | 4 | $4.11 | [AliExpress](https://pl.aliexpress.com/item/4000473863693.html) |
-| 13 | M2 screws, can also add washers | 4 | — | — |
+| 13 | M2 screws, can also add washers | 4 |  |  |
+| 14 | SK6812-MINI-E LEDs | 4 | $2.01 | [AliExpress](https://pl.aliexpress.com/item/1005008308801366.html) |
+
+Subtotal : $84.40
 
 Note that the pcb and plates were made around these specific parts. You can experiment and switch them out for different models but i don't guarantee it'll work
 
 ## BIll of materials for the pcba assembly
 
-| Designator | Comment | Footprint | JLCPCB Part # | Manufacturer | Mfr Part # | Description | Lib Type | Qty | Price ($) |
+| Designator | Comment | Footprint | JLCPCB Part # | Manufacturer | Mfr Part # | Description | Lib Type | Qty | Price |
 |---|---|---|---|---|---|---|---|---|---|
-| C17 | 10uF | 0402 | [C15525](https://jlcpcb.com/partdetail/16204-CL05A106MQ5NUNC/C15525)| Samsung Electro-Mechanics | CL05A106MQ5NUNC | 10uF 6.3V X5R ±20% MLCC | Basic | 2 | 0.0512 |
-| C18,C19,C20,C21,C22,C24,C25,C26,C27 | 0.1uF | 0402 | [C1525](https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525) | Samsung Electro-Mechanics | CL05B104KO5NNNC | 100nF 16V X7R ±10% MLCC | Basic | 18 | 0.0810 |
-| D1,D2,D3,D4 | SK6812MINI-E | LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount | [C5149201](https://jlcpcb.com/partdetail/OPSCOOptoelectronics-SK6812MINIE/C5149201) | OPSCO Optoelectronics | SK6812MINI-E | SMD RGB LED (Built-in IC) | Extended | 0 | 0.0000 |
-| R5 | 18Ω | 0402 | [C25084](https://jlcpcb.com/partdetail/25827-0402WGF180JTCE/C25084) | UNI-ROYAL (Uniroyal Elec) | 0402WGF180JTCE | Thick Film Resistor ±1% | Extended | 20 | 0.0480 |
-| R7 | 10kΩ | 0402 | [C25744](https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744) | UNI-ROYAL (Uniroyal Elec) | 0402WGF1002TCE | Thick Film Resistor ±1% | Basic | 2 | 0.0068 |
-| U4 | ZIF connector, 8-pin, 0.5mm | ZIF_connector8pin0,5mm | [C2856828](https://jlcpcb.com/partdetail/XUNPU-FPC_05FB8PH20/C2856828) | XUNPU | FPC-05FB-8PH20 | FFC/FPC Connector, right-angle SMD | Extended | 2 | 0.3208 |
+| C17 | 10uF | 0402 | [C15525](https://jlcpcb.com/partdetail/16204-CL05A106MQ5NUNC/C15525)| Samsung Electro-Mechanics | CL05A106MQ5NUNC | 10uF 6.3V X5R ±20% MLCC | Basic | 2 | $0.0512 |
+| C18,C19,C20,C21,C22,C24,C25,C26,C27 | 0.1uF | 0402 | [C1525](https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525) | Samsung Electro-Mechanics | CL05B104KO5NNNC | 100nF 16V X7R ±10% MLCC | Basic | 18 | $0.0810 |
+| R5 | 18Ω | 0402 | [C25084](https://jlcpcb.com/partdetail/25827-0402WGF180JTCE/C25084) | UNI-ROYAL (Uniroyal Elec) | 0402WGF180JTCE | Thick Film Resistor ±1% | Extended | 20 | $0.0480 |
+| R7 | 10kΩ | 0402 | [C25744](https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744) | UNI-ROYAL (Uniroyal Elec) | 0402WGF1002TCE | Thick Film Resistor ±1% | Basic | 2 | $0.0068 |
+| U4 | ZIF connector, 8-pin, 0.5mm | ZIF_connector8pin0,5mm | [C2856828](https://jlcpcb.com/partdetail/XUNPU-FPC_05FB8PH20/C2856828) | XUNPU | FPC-05FB-8PH20 | FFC/FPC Connector, right-angle SMD | Extended | 2 | $0.3208 |
 |
