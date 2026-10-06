@@ -23,9 +23,17 @@ dimensions of the pcb(and the acrylic plates) are roughly 84,5 x 48,7mm.
 I took inspiration from the sayo device with the casing method with the pcb being sandwitched between the plates. I decided on a system where 4 holes will be occupied by screws attached from both sides to a female to female spacer, and the other 2 by dowel pins to prevent the plates from wobbling sideways.
 
 <img width="907" height="414" alt="Zrzut ekranu 2026-09-25 234834" src="https://github.com/user-attachments/assets/84275001-f564-47fb-a347-0e84b400643d" />
+
 The pcb sits inbetween the two middle plates with cutouts for components and pins
 
-## Bill of materials
+## Assembly
+To assemble Hayai you'll need to follow these 4 simple steps:
+1. Solder on all of the necesary components (you will have a bit less work to do if you choose pcba) The mcu can come with header pins pre-soldered on so you can make your job a bit easier for a like a dollar
+2. Connect the display via the fpc cable with the panel facing upwards from the pcb and lay it flat on the board.
+3. Sandwitch the pcb between the plates (look at the 3d model if you need some guidance) and put M3 dowel pins into the middle holes on the sides.
+4. put M2 standoffs into the corner holes and screw them in with M2. this should hold the plates together. You can also add washers under the screws so it holds the plates better, M3 should fit.
+
+Have fun! C:
 
 ## Bill of Materials
 
@@ -41,8 +49,8 @@ The pcb sits inbetween the two middle plates with cutouts for components and pin
 | 8 | Waveshare RP2350-Zero Mini Development Board Female | 1 | $5.79 | [Waveshare](https://www.waveshare.com/rp2350-zero.htm) |
 | 9 | 1x9 pin header for microcontroller | 2 | $2.45 | [AliExpress](https://tinyurl.com/3yzm8hka) |
 | 10 | DRV5056A4QDBZR (SOT-23-3) | 4 | $3.36 | [JLCPCB](https://jlcpcb.com/partdetail/TexasInstruments-DRV5056A4QDBZR/C2152902) |
-| 11 | Brass standoffs (2M, 13mm) | 4 | $3.28 | [AliExpress](https://pl.aliexpress.com/item/1005012002279754.html) |
-| 12 | Dowel pins (3M, 14mm) | 4 | $4.11 | [AliExpress](https://pl.aliexpress.com/item/4000473863693.html) |
+| 11 | Brass standoffs (M2, 13mm) | 4 | $3.28 | [AliExpress](https://pl.aliexpress.com/item/1005012002279754.html) |
+| 12 | Dowel pins (M3, 14mm) | 4 | $4.11 | [AliExpress](https://pl.aliexpress.com/item/4000473863693.html) |
 | 13 | M2 screws, can also add washers | 4 | — | — |
 
 Note that the pcb and plates were made around these specific parts. You can experiment and switch them out for different models but i don't guarantee it'll work
