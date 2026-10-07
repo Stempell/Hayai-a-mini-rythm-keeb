@@ -1,0 +1,1 @@
+Hi! i purposly did not add a finished firmware yet as i need the finished to test the display, calibrate the switches, ect. I'll finish the firmware as soon as i am able to do so based on irl calibrations!
