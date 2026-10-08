@@ -1,0 +1,5 @@
+CUSTOM_MATRIX = lite
+SRC += matrix.c
+
+ANALOG_DRIVER_REQUIRED = yes
+ENCODER_MAP_ENABLE = yes

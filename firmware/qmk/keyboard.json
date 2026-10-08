@@ -1,0 +1,42 @@
+{
+    "manufacturer": "Wiktor Stepien",
+    "keyboard_name": "hayai",
+    "maintainer": "Stempell",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": false,
+        "command": false,
+        "console": true,
+        "extrakey": true,
+        "mousekey": false,
+        "nkro": true,
+        "encoder": true
+    },
+    "matrix_pins": {
+        "custom": true,
+        "custom_lite": true
+    },
+    "encoder": {
+        "rotary": [
+            { "pin_a": "GP0", "pin_b": "GP1", "resolution": 4 }
+        ]
+    },
+    "processor": "RP2040",
+    "usb": {
+        "device_version": "0.0.1",
+        "pid": "0x0002",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0},
+                {"matrix": [0, 3], "x": 3, "y": 0},
+                {"matrix": [0, 4], "x": 4.5, "y": 0}
+            ]
+        }
+    }
+}
