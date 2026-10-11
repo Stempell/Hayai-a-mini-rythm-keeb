@@ -4933,7 +4933,7 @@
 		(embedded_fonts no)
 		(model "C:/Users/mrkar/Downloads/joe-scotto scottokeebs main Extras-ScottoKicad/3dmodels/ScottoKeebs_Scotto.3dshapes/EC11.step"
 			(offset
-				(xyz 7 -2.5 0)
+				(xyz 7.5 -2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
