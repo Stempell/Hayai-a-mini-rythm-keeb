@@ -5,7 +5,7 @@ The display is connected by a FPC cable to a ZIF socket. custom footprints are i
 The whole thing runs on a rp2040.
 
 Here's how it looks:
-<img width="1920" height="1080" alt="Hayai" src="https://github.com/user-attachments/assets/c6f5848d-2f18-46ad-b077-f3a48aa15d3f" />
+<img width="1920" height="1080" alt="Hayai" src="https://github.com/user-attachments/assets/ca4fd3a5-cae0-41cd-a7b7-4680e0a89338" />
 
 Hayai is desing around the Gateron magnetic jade air he dimensions but you can really use any magnetic switch you want, thanks to it's easy hotswap 
 
