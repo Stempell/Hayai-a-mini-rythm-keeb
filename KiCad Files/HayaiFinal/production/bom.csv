@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C10, C3, C4, C5, C6, C7, C8, C9",0402,9,0.1uF,
+C2,0603,1,10uF,
+"D1, D2, D3, D4",LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,4,SK6812MINI-E,
+D5,Diode_DO-35,1,D,
+R5,0402,1,18Ω,
+SW1,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MountingHoles,1,RotaryEncoder_Switch_MP,
+U1,RP2040_Zero,1,RP2040_Zero,
+"U2, U3, U4, U5",SOT-23,4,DRV5055A4xDBZxQ1,
+U6,"ZIF_connector 8 pin 0,5mm",1,~,
